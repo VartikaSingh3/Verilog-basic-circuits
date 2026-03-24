@@ -27,7 +27,7 @@ It is designed for beginners to understand digital logic design, HDL coding, and
 
 ## 📁 Project Structure
 
-
+```
 verilog-basic-circuits/
 │
 ├── AND_Gate/
@@ -51,6 +51,7 @@ verilog-basic-circuits/
 │   ├── half_adder_tb.v
 │
 └── README.md
+```
 
 
 
