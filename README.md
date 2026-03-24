@@ -102,7 +102,7 @@ The waveform output confirms the correctness of the implemented logic.
 ## 👩‍💻 Author
 
 **Vartika Singh**
-B.Tech (ECE) | Embedded Systems & AI Enthusiast
+B.Tech (ECE) | Embedded Systems & VLSI Enthusiast
 
 ---
 
