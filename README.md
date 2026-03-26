@@ -38,7 +38,7 @@ verilog-basic-circuits/
 │   ├── or_gate.v
 │   ├── or_gate_tb.v
 │
-├── NOT_Gate/
+├── NOR_Gate/
 │   ├── not_gate.v
 │   ├── not_gate_tb.v
 │
